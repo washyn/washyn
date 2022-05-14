@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning typescript.
 - 👯 I’m looking to collaborate on ABP framework.
 
+My litle profile in stackoverflow  https://stackoverflow.com/users/7903861/washyn-acero
 
 <!--
 - 🤔 I’m looking for help with ...
