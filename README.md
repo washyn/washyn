@@ -92,4 +92,4 @@ HTML Hex	&#x1F1F5 ; &#x1F1EA ; -->
 - 📞 +51 975 066 768
 - 🚩 Puno, Perú
 - shin321654987@gmail.com
-- [Twitter](twiter.com/washin_acero)
+- [Twitter](https://twitter.com/washin_acero)
