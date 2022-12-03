@@ -45,13 +45,7 @@ HTML Hex	&#x1F1F5 ; &#x1F1EA ; -->
 ## Education
 - Ing System
 - Software architecture
-- Online education platforms
-    - Capacity
-    - Video2Brain
-    - Codigo facilito
-    - Udemy
-    - Platzi
-    - Edteam
+- Online education platforms(Capacity, Video2Brain, Codigo facilito, Udemy, Platzi, Edteam)
 - Youtube and documentacion
 
 <!-- 
