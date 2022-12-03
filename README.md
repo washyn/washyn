@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on aspnet boilerplate related projects.
-- 🌱 I’m currently learning typescript.
-- 👯 I’m looking to collaborate on ABP framework.
+- 🌱 I’m currently learning typescript and angular.
 
 My litle profile in stackoverflow https://stackoverflow.com/users/7903861/washyn-acero
 
