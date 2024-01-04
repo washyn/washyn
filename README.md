@@ -82,5 +82,5 @@ HTML Hex	&#x1F1F5 ; &#x1F1EA ; -->
 
 
 # Contact info
-- 📞 +51 975 066 768
+- 📞 +51 997 695 563
 - 🚩 Puno, Perú
